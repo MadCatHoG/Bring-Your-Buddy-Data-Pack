@@ -9,11 +9,11 @@ This data pack allows players to request others to bring them to their location 
 - Teleportation cost levels, depending the dimension they are located
 - For now, only one teleport request at a time is supported
 
-Make sure to set your sendCommandFeedback gamerule to false to avoid trigger spam
+Make sure to set your **sendCommandFeedback** gamerule to **false** to avoid trigger spam
 
 ## Usage:
 
-Any player can request to be teleported using the command /trigger tp
+Any player can request to be teleported using the command **/trigger tp**
 A message will be send to the other players. The cost will be included in the message. If anybody agrees, a message will be send to the requestor to confirm.
 Once confirmed, the player will be teleported
 
